@@ -10,3 +10,8 @@ h1 {
 p {
   color: darkslategray;
 }
+
+a {
+  color: crimson;
+  text-decoration: underline;
+}
