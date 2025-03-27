@@ -2,6 +2,7 @@ body {
   background-color: lightblue;
 }
 
+
 h1 {
   color: navy;
   font-size: 36px;
@@ -14,4 +15,7 @@ p {
 a {
   color: crimson;
   text-decoration: underline;
+}
+.center {
+  text-align: center;
 }
