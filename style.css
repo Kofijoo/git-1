@@ -2,6 +2,7 @@ body {
   background-color: lightblue;
 }
 
+
 h1 {
   color: navy;
   font-size: 36px;
@@ -9,4 +10,8 @@ h1 {
 
 p {
   color: darkslategray;
+}
+
+.center {
+  text-align: center;
 }
